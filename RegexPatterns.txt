@@ -1,0 +1,7 @@
+Gloom(y|s|ed|i(ng|er|est|ly|ness))?
+Haunt(ed|ing(ly|s)?|s|er(s)?)?
+Myster(y|i(ous(ness(es)?|ly)?|es))
+Forebod(e(s|d)?|ing)
+Melanchol(y|i(c(s)?|a(c|e)?|es|ness(es)?|ze(s)?|ous|ly|s(h|t(s)?)))
+Terr(ors|or|if(ied|ying(ly)?|y|ic(ally)?)|i(ble(ness)?|able))
+Desolat(e(ly|ness|d|s|r)?|ing(ly)?|or)
